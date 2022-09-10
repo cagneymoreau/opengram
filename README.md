@@ -11,9 +11,9 @@ Opengram is a user interface that allows a single or possibly multiple backend m
 
 
 <p align="center">
-<img src="https://github.com/cagneymoreau/opengram/blob/master/screen1.png" />
-<img src="https://github.com/cagneymoreau/opengram/blob/master/screen2.png" />
-<img src="https://github.com/cagneymoreau/opengram/blob/master/screen3.png" />
+<img src="https://github.com/cagneymoreau/opengram/blob/master/screen1.png" width="200"/>
+<img src="https://github.com/cagneymoreau/opengram/blob/master/screen2.png" width="200"/>
+<img src="https://github.com/cagneymoreau/opengram/blob/master/screen3.png" width="200"/>
 </p>
 
 ### TODO
