@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "WorkStation"
+rootProject.name = "OpenGram"
 include ':app'
 include ':libtd'
